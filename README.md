@@ -1,5 +1,5 @@
 # hai :3
-my name is mymetype and this is my profile. i am an aspiring developer and a gentoo linux enthusiast. currently learning website development and python (and maybe java or c++ in the future).
+my name is mymetype and this is my profile. i am an aspiring developer and a fedora linux enthusiast (currently daily driving fedora sway atomic rn). currently learning website development and python (and maybe java or c++ in the future).
 
 you can find me in most social media under the username `@mymetype`.
 
