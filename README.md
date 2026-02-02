@@ -2,7 +2,8 @@
 
 ## Projects I maintain
 
-- [Aquastation](https://github.com/Aquastation/Aquastation/tree/master): An underwater-themed Space Station 13 server (WORK IN PROGRESS)
+- [SYSVinit Linux From Scratch](https://github.com/MymeType/sysvlfs): A continuation effort of the SysVinit version of the Linux From Scratch book
+- [Aquastation](https://github.com/Aquastation/Aquastation): An underwater-themed Space Station 13 server (WORK IN PROGRESS)
 
 ## Projects I've contributed to
 
