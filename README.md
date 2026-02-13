@@ -1,11 +1,19 @@
 # MYMETYPE - マイムタイプ - /maɪmtaɪp/
 
-## Projects I maintain
+## CONTACT
+
+- MATRIX: `@mymetype:4d2.org`
+- REVOLT/STOAT: `MymeType#2036`
+- XMPP: `mymetype@conversations.im`
+
+## PROJECTS
+
+### Projects I maintain
 
 - [SYSVinit Linux From Scratch](https://github.com/MymeType/sysvlfs): A continuation effort of the SysVinit version of the Linux From Scratch book
 - [Aquastation](https://github.com/Aquastation/Aquastation): An underwater-themed Space Station 13 server (WORK IN PROGRESS)
 
-## Projects I've contributed to
+### Projects I've contributed to
 
 - [Supplemental Linux From Scratch (SLFS)](https://github.com/glfs-book/slfs)
 - [Bluefin](https://github.com/ublue-os/bluefin)
