@@ -2,9 +2,10 @@
 
 ## CONTACT
 
+- XMPP: `mymetype@magicbroccoli.de`
 - MATRIX: `@mymetype:4d2.org`
-- REVOLT/STOAT: `MymeType#2036`
-- XMPP: `mymetype@conversations.im`
+- STOAT: `MymeType#2036`
+- FLUXER: `MymeType#8121`
 
 ## PROJECTS
 
