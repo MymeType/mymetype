@@ -24,7 +24,7 @@
 
 ## STATS
 
-[![MymeType's GitHub stats](https://github-stats-extended.vercel.app/api?username=MymeType)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MymeType&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=MymeType&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=github_dark)
 
 <!--
 **MymeType/mymetype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
