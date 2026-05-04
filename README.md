@@ -4,8 +4,7 @@
 
 - XMPP: `mymetype@magicbroccoli.de`
 - MATRIX: `@mymetype:4d2.org`
-- STOAT: `MymeType#2036`
-- FLUXER: `MymeType#8121`
+- FLUXER: `MymeType#0667`
 
 ## PROJECTS
 
