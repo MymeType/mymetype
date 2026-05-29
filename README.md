@@ -1,11 +1,5 @@
 # MYMETYPE - マイムタイプ - /maɪmtaɪp/
 
-## CONTACT
-
-- XMPP: `mymetype@magicbroccoli.de`
-- MATRIX: `@mymetype:4d2.org`
-- FLUXER: `MymeType#0667`
-
 ## PROJECTS
 
 ### Projects I maintain
