@@ -1,4 +1,4 @@
-# MYMETYPE - マイムタイプ - /maɪmtaɪp/
+# MYMETYPE | マイムタイプ | /maɪmtaɪp/
 
 ## PROJECTS
 
